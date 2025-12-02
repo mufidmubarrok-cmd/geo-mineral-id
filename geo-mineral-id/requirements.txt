@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-plotly
 pandas 
 plotly.graph_objects 
 yfinance 
